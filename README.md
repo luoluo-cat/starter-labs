@@ -8,3 +8,4 @@ elif choice=="2":
     print("摄氏度为",(fahrenheit-32)*5/9,"℃")
 else:
     print("错误")
+input("press any key to exit")
